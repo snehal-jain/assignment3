@@ -1,7 +1,7 @@
 #include<ctype.h>
 #include<stdio.h>
 #include<stdlib.h>
-int i,n;
+int i,n,k;
 void append(int *arr,int ele,int i,int n)
 {
 
